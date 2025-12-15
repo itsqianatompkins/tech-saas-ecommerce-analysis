@@ -18,6 +18,10 @@ This analysis will identify key trends, growth patterns, performance metrics, an
 
 These insights will allow GameGalaxy to optimize pricing and product strategy, allocate marketing spend more efficiently, improve logistics performance, and strengthen revenue through targeted customer strategies.
 
+An interactive PowerBI dashboard can be downloaded (here)
+The SQL queries utilized to inspect and perform quality checks can be found (here)
+Targeted SQL queries regarding relevant business questions can be found (here)
+
 # GameGalaxy E-Commerce Data Model: Orders, Customers, Products, Marketing, and Logistics
 
 The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
@@ -25,7 +29,7 @@ The data is structured around a central Orders fact table linked to customer, pr
 <img width="1414" height="2000" alt="Data Structure Overview" src="https://github.com/user-attachments/assets/44dbbbf7-e8a2-4430-95e4-598e1e5b9f53" />
 
 
-The Orders table is the central transaction record, linking all business activity.
+The Orders table is the central transaction record that links all business activity.
 
  - Users → Orders: Enables customer behavior, retention, and regional analysis.
 
@@ -38,3 +42,5 @@ The Orders table is the central transaction record, linking all business activit
  - Shipping → Orders: Measures fulfillment speed and operational efficiency.
 
 Together, these relationships create a unified view of revenue, customers, marketing, and fulfillment performance.
+
+Before beginning the analysis, a variety of checks were cnducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found (here).
