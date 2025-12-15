@@ -6,7 +6,7 @@ GameGalaxy, a gaming retailer, operates across web, mobile, and console platform
 
 # Overview 
 
-This analysis will identify key trends, growth patterns, performance metrics, and KPIs across the business such as: 
+This analysis will identify key trends, growth patterns, performance metrics, and KPIs across the business, such as: 
 
   - Which products, platforms, and segments generate the highest revenue and repeat purchases
 
@@ -23,6 +23,7 @@ These insights will allow GameGalaxy to optimize pricing and product strategy, a
 The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
 
 <img width="1414" height="2000" alt="Data Structure Overview" src="https://github.com/user-attachments/assets/44dbbbf7-e8a2-4430-95e4-598e1e5b9f53" />
+
 
 The Orders table is the central transaction record, linking all business activity.
 
