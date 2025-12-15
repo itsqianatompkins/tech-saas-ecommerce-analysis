@@ -20,4 +20,6 @@ These insights will allow GameGalaxy to optimize pricing and product strategy, a
 
 # GameGalaxy E-Commerce Data Model: Orders, Customers, Products, Marketing, and Logistics
 
-These insights structured the data around a central Orders fact table connected to customer, product, marketing, and logistics dimensions. This model allows cross-functional analysis of revenue, acquisition efficiency, repeat purchasing, and shipping performance
+The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
+
+
