@@ -18,7 +18,7 @@ This analysis will identify key trends, growth patterns, performance metrics, an
 
 These insights will allow GameGalaxy to optimize pricing and product strategy, allocate marketing spend more efficiently, improve logistics performance, and strengthen revenue through targeted customer strategies.
 
-_Behind the Analysis: Technical Resources_
+**Behind the Analysis: Technical Resources**
 
  - An interactive PowerBI dashboard can be downloaded (here)
  - The SQL queries utilized to inspect and perform quality checks can be found (here)
@@ -45,4 +45,14 @@ The Orders table is the central transaction record that links all business activ
 
 Together, these relationships create a unified view of revenue, customers, marketing, and fulfillment performance.
 
-Before beginning the analysis, a variety of checks were cnducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found (here).
+Before beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found (here).
+
+# Executive Summary
+
+**Objective**
+
+The objective of this analysis is to summarize GameGalaxy’s historical sales, marketing, product, and logistics performance to identify key trends, patterns, and areas of opportunity across the business.
+
+**Data Scope & Timeframe**
+
+
