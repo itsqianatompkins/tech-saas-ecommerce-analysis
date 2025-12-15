@@ -24,4 +24,16 @@ The data is structured around a central Orders fact table linked to customer, pr
 
 <img width="1414" height="2000" alt="Data Structure Overview" src="https://github.com/user-attachments/assets/44dbbbf7-e8a2-4430-95e4-598e1e5b9f53" />
 
+The Orders table is the central transaction record, linking all business activity.
 
+ - Users → Orders: Enables customer behavior, retention, and regional analysis.
+
+ - Products → Orders: Supports product performance and demand evaluation.
+
+ - Date → Orders: Enables trend, seasonality, and growth analysis over time.
+
+ - Marketing Channels → Orders: Provides visibility into channel performance and marketing effectiveness.
+
+ - Shipping → Orders: Measures fulfillment speed and operational efficiency.
+
+Together, these relationships create a unified view of revenue, customers, marketing, and fulfillment performance.
