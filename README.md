@@ -28,8 +28,7 @@ These insights will allow GameGalaxy to optimize pricing and product strategy, a
 
 The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
 
-<img width="1414" height="2000" alt="Data Structure Overview" src="https://github.com/user-attachments/assets/44dbbbf7-e8a2-4430-95e4-598e1e5b9f53" />
-
+<img width="457" height="640" alt="Screenshot 2025-12-14 at 8 24 22 PM" src="https://github.com/user-attachments/assets/08c01763-294e-478f-b0a9-b49494f0fda9" />
 
 The Orders table is the central transaction record that links all business activity.
 
