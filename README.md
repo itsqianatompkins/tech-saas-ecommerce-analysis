@@ -66,3 +66,5 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 **Pertinent Findings for Business Objectives**
 
 _Sales Performance_
+
+<img width="1161" height="534" alt="Screenshot 2025-12-15 at 8 46 09 PM" src="https://github.com/user-attachments/assets/2812d91f-1b71-4a97-b5c9-7fb3fdfe5fcf" />
