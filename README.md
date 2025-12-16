@@ -51,10 +51,9 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 # Pertinent Findings for Business Objectives
 
 ***Sales Performance***
+[photo goes here]
 
-<p align="center">
-![Screenshot 2025-12-15 at 8 46 09 PM](https://github.com/user-attachments/assets/328c4f9f-a5b7-449d-9621-b9cf7657170b)
-</p>
+
 
 - Revenue grew 161% year over year (2019 → 2020), signaling strong sales momentum and successful business scaling.
 
