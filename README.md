@@ -83,3 +83,7 @@ _Sales Performance_
 - Average Revenue Per User (ARPU) varies by less than $5, highlighting an opportunity to increase customer lifetime value through repeat purchases and retention strategies.
 
 _Product Performance_
+
+<img width="1421" height="622" alt="Screenshot 2025-12-16 at 12 47 29 AM" src="https://github.com/user-attachments/assets/56734ede-a3d7-4bac-b185-93364c63fbd6" />
+
+
