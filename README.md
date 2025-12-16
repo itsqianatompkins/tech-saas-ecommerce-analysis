@@ -48,7 +48,7 @@ The objective of this analysis is to summarize GameGalaxy’s historical sales, 
 
 _Assumption: Each ORDER_ID represents a completed purchase._
 
-**Pertinent Findings for Business Objectives**
+# Pertinent Findings for Business Objectives
 
 _Sales Performance_
 
