@@ -68,4 +68,18 @@ _Sales Performance_
 
 <img width="789" height="367" alt="Screenshot 2025-12-15 at 8 52 02 PM" src="https://github.com/user-attachments/assets/389fc60c-68e6-42fb-ad7a-41761be887d8" />
 
+- Revenue grew 161% year over year (2019 → 2020), signaling strong sales momentum and successful business scaling.
 
+
+ - Total revenue trends upward consistently, with clear spikes in September, November, and December, likely driven by birthdays and holiday purchasing behavior.
+
+
+ - Customer behavior is heavily web-based, with 97% purchasing via the website, 75% using desktop devices, and 84% of traffic originating from direct marketing channels.
+
+
+ - Average Order Value (AOV) remains stable, indicating revenue growth is driven primarily by higher order volume rather than pricing changes.
+
+
+- Average Revenue Per User (ARPU) varies by less than $5, highlighting an opportunity to increase customer lifetime value through repeat purchases and retention strategies.
+
+_Product Performance_
