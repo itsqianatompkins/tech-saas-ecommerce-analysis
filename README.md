@@ -16,9 +16,7 @@ These insights will allow GameGalaxy to optimize pricing and product strategy, a
 
 The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
 
-<p align="center">
-<img src='https://github.com/user-attachments/assets/d997f9e7-61f8-4a62-b148-3c42f1303d6f" alt="GameGalaxy ERD">
-</p>
+photo here
 
 The Orders table is the central transaction record that links all business activity.
 
@@ -51,9 +49,8 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 # Pertinent Findings for Business Objectives
 
 ***Sales Performance***
-[photo goes here]
 
-
+photo here 
 
 - Revenue grew 161% year over year (2019 → 2020), signaling strong sales momentum and successful business scaling.
 
@@ -71,9 +68,7 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 ***Product Performance***
 
-<p align="center">
-![Screenshot 2025-12-16 at 12 47 29 AM](https://github.com/user-attachments/assets/fd293b40-94fc-4a5d-bdc0-f234f5aa082b)
-</p>
+Photo Here 
 
  - Revenue is highly concentrated, with the top three products accounting for 84.6% of total sales.
  - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
