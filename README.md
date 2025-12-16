@@ -50,7 +50,7 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 # Pertinent Findings for Business Objectives
 
-_Sales Performance_
+***Sales Performance***
 
 <img width="789" height="367" alt="Screenshot 2025-12-15 at 8 52 02 PM" src="https://github.com/user-attachments/assets/389fc60c-68e6-42fb-ad7a-41761be887d8" />
 
@@ -68,7 +68,7 @@ _Sales Performance_
 
 - Average Revenue Per User (ARPU) varies by less than $5, highlighting an opportunity to increase customer lifetime value through repeat purchases and retention strategies.
 
-_Product Performance_
+***Product Performance***
 
 <img width="1421" height="622" alt="Screenshot 2025-12-16 at 12 47 29 AM" src="https://github.com/user-attachments/assets/56734ede-a3d7-4bac-b185-93364c63fbd6" />
 
@@ -76,5 +76,5 @@ _Product Performance_
  - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
  - From 2019 to 2020, revenue grew sharply across all four products, led by the Sony PlayStation 5 Bundle (+351%), followed by the Lenovo IdeaPad Gaming 3 (+198%), the 27in 4K Gaming Monitor (+120%), and the Nintendo Switch (+103%), highlighting especially strong momentum in console bundles and gaming hardware.
 
-
+***Marketing Channel & Platform Performance***
 
