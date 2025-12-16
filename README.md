@@ -1,5 +1,3 @@
-# SaaS Business Impact: A Cross-Functional Analysis in Gaming Commerce 
-
 # Background 
 
 GameGalaxy has grown rapidly across platforms and markets, but lacks a unified view of sales performance, customer value, and fulfillment efficiency. As competition and operating costs rise, leadership needs clear, data-driven insight into revenue-driving products, high-value acquisition channels, and logistics bottlenecks impacting customer loyalty.
@@ -18,7 +16,9 @@ These insights will allow GameGalaxy to optimize pricing and product strategy, a
 
 The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
 
-<img width="457" height="640" alt="Screenshot 2025-12-14 at 8 24 22 PM" src="https://github.com/user-attachments/assets/08c01763-294e-478f-b0a9-b49494f0fda9" />
+<p align="center">
+![GameGalaxy_ERD](https://github.com/user-attachments/assets/d997f9e7-61f8-4a62-b148-3c42f1303d6f)
+</p>
 
 The Orders table is the central transaction record that links all business activity.
 
@@ -52,7 +52,9 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 ***Sales Performance***
 
-<img width="789" height="367" alt="Screenshot 2025-12-15 at 8 52 02 PM" src="https://github.com/user-attachments/assets/389fc60c-68e6-42fb-ad7a-41761be887d8" />
+<p align="center">
+![Screenshot 2025-12-15 at 8 46 09 PM](https://github.com/user-attachments/assets/328c4f9f-a5b7-449d-9621-b9cf7657170b)
+</p>
 
 - Revenue grew 161% year over year (2019 → 2020), signaling strong sales momentum and successful business scaling.
 
@@ -70,7 +72,9 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 ***Product Performance***
 
-<img width="1421" height="622" alt="Screenshot 2025-12-16 at 12 47 29 AM" src="https://github.com/user-attachments/assets/56734ede-a3d7-4bac-b185-93364c63fbd6" />
+<p align="center">
+![Screenshot 2025-12-16 at 12 47 29 AM](https://github.com/user-attachments/assets/fd293b40-94fc-4a5d-bdc0-f234f5aa082b)
+</p>
 
  - Revenue is highly concentrated, with the top three products accounting for 84.6% of total sales.
  - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
