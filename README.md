@@ -53,8 +53,8 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 ***Sales Performance***
 
 
-<img width="1425" height="619" alt="Screenshot 2025-12-16 at 11 46 09 PM" src="https://github.com/user-attachments/assets/86488022-7a1a-4da0-810d-66644acebf99" />
- 
+<img width="1161" height="534" alt="Screenshot 2025-12-15 at 8 46 09 PM" src="https://github.com/user-attachments/assets/732b55f7-2de5-4179-ac48-6a6c9c2c383d" />
+
 
 - Revenue grew 161% year over year (2019 → 2020), signaling strong sales momentum and successful business scaling.
 
