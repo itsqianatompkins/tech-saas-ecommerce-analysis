@@ -14,6 +14,7 @@ This analysis will identify key trends, growth patterns, performance metrics, an
 
 These insights will allow GameGalaxy to optimize pricing and product strategy, allocate marketing spend more efficiently, improve logistics performance, and strengthen revenue through targeted customer strategies.
 
+Technical Documentation - Excel spreadsheets used to clean, organize, and visualize the data are available here: [gamegalaxy-orders-data.xlsx](https://github.com/user-attachments/files/24419572/gamegalaxy-orders-data.xlsx)
 
 <img width="1920" height="1080" alt="GameGalaxy_ERD" src="https://github.com/user-attachments/assets/6bc1e98b-072e-4a9b-bd5b-b092b1bc28f1" />
 
