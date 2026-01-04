@@ -85,3 +85,4 @@ _Assumption: Each ORDER_ID represents a completed purchase._
  
  - Global revenue growth ranked by sales (2019–2020): NA led with $759.7K → $1.9M (150.5% CAGR), followed by EMEA $411.5K → $1.09M (165.1%), APAC $150.1K → $448.8K (199.0%), and LATAM $74.3K → $205.1K (175.9%).
  - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, 159% CAGR) and Email ($115K → $373K, 223% CAGR), while scaling Social (138% CAGR) and Affiliate (71% CAGR) channels.
+ - Scaled platform revenue YoY, with the Website driving primary growth ($1.35M → $3.56M, 163% CAGR) and the Mobile App doubling performance ($42K → $87K, 106% CAGR).
