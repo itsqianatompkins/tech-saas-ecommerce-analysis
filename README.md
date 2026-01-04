@@ -90,3 +90,5 @@ _Assumption: Each ORDER_ID represents a completed purchase._
  - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, 159% CAGR) and Email ($115K → $373K, 223% CAGR), while scaling Social Media (138% CAGR) and Affiliate (71% CAGR) channels.
  - Scaled platform revenue YoY, with the Website driving primary growth ($1.35M → $3.56M, 163% CAGR) and the Mobile App doubling performance ($42K → $87K, 106% CAGR).
  - Order Methods increased YoY: Desktop led ($990K → $2.82M, 185% growth), followed by Mobile ($318K → $642K, 102% growth), Unknown ($69K → $140K, 103% growth), Tablet ($18K → $44K, 138% growth), and TV ($1.1K → $3.4K, 207% growth), with TV showing the highest growth rate despite the lowest overall sales volume.
+
+# Insights & Recommendations 
