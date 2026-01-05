@@ -80,7 +80,6 @@ Revenue was highly concentrated among a few top products, led by the **27” 4K 
 
 <img width="1421" height="622" alt="Screenshot 2025-12-16 at 12 47 29 AM" src="https://github.com/user-attachments/assets/90f821c8-3019-4a6a-9dc5-461825bb9524" />
 
-
  - Revenue is highly concentrated, with the top three products accounting for 84.6% of total sales.
    
  - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
@@ -102,3 +101,5 @@ Revenue was highly concentrated among a few top products, led by the **27” 4K 
 # Insights & Recommendations 
 
 ***Caveats & Assumptions***
+
+Approximately 2,000 of 19.851 records contained shipping dates occurring before purchase dates, indicating data quality issues that prevented a reliable calculation of average time-to-ship. For analysis purposes, it was assumed these dates were reversed due to entry or system errors; however, this introduces potential risk of misrepresenting fulfillment performance. To mitigate this risk, affected records should be excluded from time-based metrics or validated through data cleaning, along with implementing stronger data validation controls and routine quality audits going forward.
