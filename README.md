@@ -107,7 +107,7 @@ Revenue was highly concentrated among a few top products, led by the **27” 4K 
 
 Approximately 2,000 of 19.851 records contained shipping dates occurring before purchase dates, indicating data quality issues that prevented a reliable calculation of average time-to-ship. For analysis purposes, it was assumed these dates were reversed due to entry or system errors; however, this introduces potential risk of misrepresenting fulfillment performance. To mitigate this risk, affected records should be excluded from time-based metrics or validated through data cleaning, along with implementing stronger data validation controls and routine quality audits going forward.
 
-***Recommendations & Next Steps*** 
+***Recommendations*** 
 
  - Expand the product ecosystem by vertically integrating refurbished and trending games/accessories for top consoles, turning one-time console buyers into repeat purchasers and increasing lifetime value.
 
@@ -118,3 +118,15 @@ Approximately 2,000 of 19.851 records contained shipping dates occurring before 
  - Enhance mobile engagement given email’s strong relative performance on mobile devices; optimize campaigns and user experience for mobile.
 
  - Improve data quality processes to enable more reliable operational metrics (e.g., shipping performance), which are critical for strategic logistics decisions.
+
+***Next Steps***
+
+ - Predictive sales modeling to forecast revenue by month and product category, enabling smarter inventory and marketing planning ahead of seasonal peaks.
+
+ - Customer segmentation & cohort analysis to identify high-value customer segments and develop targeted re-engagement tactics.
+
+ - Evaluate refurbished/expanded product verticals by analyzing demand trends and pricing elasticity to assess potential revenue uplift.
+
+ - Build dashboards tracking key KPIs (repeat purchase rate, channel ROI, time-to-ship) with cleaned and validated data.
+
+ - Test A/B campaigns for email and direct channels to quantify incremental lift and optimize acquisition/retention spend.
